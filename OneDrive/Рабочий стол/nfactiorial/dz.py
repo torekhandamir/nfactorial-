@@ -1,3 +1,3 @@
-a = 6
-b = 9 
-print (a+b)
+string = "banana is so delicious"
+reversed_string = string [::-1]
+print (reversed_string)
